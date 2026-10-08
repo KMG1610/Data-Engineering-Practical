@@ -1,4 +1,4 @@
-# Data Engineering Lab Portfolio
+# Data Engineering Practicals
 
 This repository contains a complete series of Data Engineering practical assignments (Practicals 1 through 10). It demonstrates a progressive journey from fundamental data manipulation and file parsing to building full-scale ETL pipelines, orchestrating workflows, and designing analytical data warehouses.
 
